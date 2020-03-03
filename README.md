@@ -1,4 +1,3 @@
-# Projetos-Java
 # Este projeto contém informações para desenvolver interfaces gráficas em projetos Java desktop. 
 
 - Contexto detalhado do curso junto com os projetos de telas:
